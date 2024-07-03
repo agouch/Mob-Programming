@@ -23,7 +23,7 @@
 -**GitHub**: Centralized platform for managing code versions, pull requests, and collaboration.
 
 ## Video:
-https://youtu.be/vGURvxPES8Y
+https://youtu.be/bC9Q5v5cd28
 
  ## Images
 
