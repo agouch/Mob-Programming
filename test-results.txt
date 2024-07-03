@@ -130,3 +130,12 @@ class GildedRoseTest(unittest.TestCase):
     
 if __name__ == '__main__':
     unittest.main()
+
+
+Results:
+[Aged Brie, 1, 1, Sulfuras, 2, 2]
+.................
+----------------------------------------------------------------------
+Ran 17 tests in 0.000s
+
+OK
