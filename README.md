@@ -28,6 +28,7 @@ https://youtu.be/vGURvxPES8Y
  ## Images
 
 Coverage Report
+
 <img width="604" alt="Screenshot 2024-07-02 at 10 36 51 PM" src="https://github.com/agouch/Mob-Programming/assets/61159383/bad96bb7-92fd-4218-94c5-52ff647171ea">
 
 Test Cases
