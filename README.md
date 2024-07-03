@@ -1,15 +1,14 @@
 # SWE 6733-Assignment Two 
 
+
+## Project Title: Gilded Rose Mob Programming Katate
+
 ## Team Members:
 - Cesar Villarreal
 - Alaina Magee
 - Nishik Patel
 - Parker Goins
 - Aliyah Gouch
-
-## Project Overview:
--**Project Title**: Gilded Rose Mob Programming Katate
--**Description**: 
 
 ## Collaboration Tool:
 - VS Code Live Share
